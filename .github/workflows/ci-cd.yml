@@ -49,6 +49,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/m347-react-app:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/ref-card-02:latest
 
 
